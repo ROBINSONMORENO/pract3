@@ -15619,6 +15619,11 @@
   "RootNamespace": "busco",
   "Documents": [
     {
+      "FilePath": "d:\\pc3\\busco\\pract3\\busco\\Views\\_ViewStart.cshtml",
+      "TargetPath": "pract3\\busco\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\pc3\\busco\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15629,8 +15634,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\pc3\\busco\\pract3\\busco\\Views\\Home\\Index.cshtml",
+      "TargetPath": "pract3\\busco\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\pc3\\busco\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pc3\\busco\\pract3\\busco\\Views\\Home\\Solicitud.cshtml",
+      "TargetPath": "pract3\\busco\\Views\\Home\\Solicitud.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pc3\\busco\\pract3\\busco\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "pract3\\busco\\Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15644,6 +15664,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\pc3\\busco\\pract3\\busco\\Views\\_ViewImports.cshtml",
+      "TargetPath": "pract3\\busco\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pc3\\busco\\pract3\\busco\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "pract3\\busco\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\pc3\\busco\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -15651,6 +15681,11 @@
     {
       "FilePath": "d:\\pc3\\busco\\Views\\Home\\Solicitud.cshtml",
       "TargetPath": "Views\\Home\\Solicitud.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\pc3\\busco\\pract3\\busco\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "pract3\\busco\\Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
